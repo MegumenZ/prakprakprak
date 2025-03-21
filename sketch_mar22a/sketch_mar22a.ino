@@ -13,8 +13,8 @@ long duration;
 float distance;
 
 // FIREBASE
-#define FIREBASE_HOST "https://project-4-5eb1b-default-rtdb.asia-southeast1.firebasedatabase.app/" 
-#define FIREBASE_API_KEY "Ze0U2jqvJ4SeCiIap0YX6Rdt1nFxGcoezGXcJGwJ" 
+#define FIREBASE_HOST "https://cloud-pert3-b147c-default-rtdb.asia-southeast1.firebasedatabase.app" 
+#define FIREBASE_API_KEY "OhNEljHd9j9MORSCYZQchLSrBnxlpYka5AmIeH35" 
 
 // Akun Firebase Authentication
 #define USER_EMAIL "ardanie2004@gmail.com"
