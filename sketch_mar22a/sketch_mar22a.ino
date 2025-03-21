@@ -13,7 +13,7 @@ long duration;
 float distance;
 
 // FIREBASE
-#define FIREBASE_HOST "https://cloud-pert3-b147c-default-rtdb.asia-southeast1.firebasedatabase.app" 
+#define FIREBASE_HOST "https://cloud-pert3-b147c-default-rtdb.asia-southeast1.firebasedatabase.app/" 
 #define FIREBASE_API_KEY "OhNEljHd9j9MORSCYZQchLSrBnxlpYka5AmIeH35" 
 
 // Akun Firebase Authentication

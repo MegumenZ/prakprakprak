@@ -5,9 +5,9 @@ from firebase_admin import credentials, db
 app = Flask(__name__)
 
 # Inisialisasi Firebase Admin SDK
-cred = credentials.Certificate("project-4-5eb1b-firebase-adminsdk-fbsvc-b6f9418c5e.json")  # Gunakan raw string
+cred = credentials.Certificate("cloud-pert3-b147c-firebase-adminsdk-fbsvc-619ff41007.json")  # Gunakan raw string
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://project-4-5eb1b-default-rtdb.asia-southeast1.firebasedatabase.app/'  # Ganti dengan URL database
+    'databaseURL': 'https://cloud-pert3-b147c-default-rtdb.asia-southeast1.firebasedatabase.app/'  # Ganti dengan URL database
 })
 
 # Referensi ke data sensor
