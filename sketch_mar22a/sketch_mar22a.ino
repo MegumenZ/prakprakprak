@@ -18,7 +18,7 @@ float distance;
 
 // Akun Firebase Authentication
 #define USER_EMAIL "ardanie2004@gmail.com"
-#define USER_PASSWORD "Ard4n13310504"
+#define USER_PASSWORD "Andr331052004"
 
 // Koneksi WiFi
 #define WIFI_SSID "Zhafran" 
